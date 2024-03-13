@@ -50,7 +50,7 @@ lib/Pattern/Facade/*.solution.php
 
 # lib/Pattern/Factory/*
 # factory.php
-lib/Pattern/Factory/*.solution.php
+# lib/Pattern/Factory/*.solution.php
 
 
 lib/Pattern/FluentInterface/*
