@@ -8,6 +8,7 @@
         <p><em><strong>PHP 5.4</strong> required! Your PHP version is: <strong><?php echo phpversion() ?></strong>.</em></p>
         <ol>
             <li><a href="./adapter.php">Adapter</a></li>
+            <li><a href="./bridge.php">Bridge</a></li>
             <li><a href="./builder.php">Builder</a></li>
             <li><a href="./chainOfResponsibility.php">Chain of Responsibility</a></li>
             <li><a href="./command.php">Command</a></li>

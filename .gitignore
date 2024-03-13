@@ -8,6 +8,11 @@ adapter.php
 lib/Pattern/Adapter/*.solution.php
 
 
+lib/Pattern/Bridge/*
+bridge.php
+lib/Pattern/Bridge/*.solution.php
+
+
 lib/Pattern/Builder/*
 builder.php
 lib/Pattern/Builder/*.solution.php
@@ -85,8 +90,9 @@ proxy.php
 lib/Pattern/Proxy/*.solution.php
 
 
-lib/Pattern/Singleton/*
-singleton.php
+
+# lib/Pattern/Singleton/*
+# singleton.php
 lib/Pattern/Singleton/*.solution.php
 
 
