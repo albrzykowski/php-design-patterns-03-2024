@@ -61,6 +61,7 @@ class UserProxy implements UserInterface
             $this->user = new User();
         }
         
+        $this->user->setName($this->session->name);
         return $this->user->update();
     }
     
