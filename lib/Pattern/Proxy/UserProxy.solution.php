@@ -9,11 +9,6 @@ namespace Pattern\Proxy;
 class UserProxy implements UserInterface
 {
     /**
-     * Sample property
-     * @var string
-     */
-    private $name;
-    /**
      * User origin
      * @var UserInterface
      */

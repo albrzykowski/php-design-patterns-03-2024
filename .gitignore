@@ -13,8 +13,8 @@ bridge.php
 lib/Pattern/Bridge/*.solution.php
 
 
-lib/Pattern/Builder/*
-builder.php
+# lib/Pattern/Builder/*
+# builder.php
 lib/Pattern/Builder/*.solution.php
 
 
