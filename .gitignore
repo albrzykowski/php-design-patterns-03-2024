@@ -81,9 +81,9 @@ observerLight.php
 lib/Pattern/ObserverLight/*.solution.php
 
 
-lib/Pattern/Prototype/*
-prototype.php
-lib/Pattern/Prototype/*.solution.php
+# lib/Pattern/Prototype/*
+# prototype.php
+# lib/Pattern/Prototype/*.solution.php
 
 lib/Pattern/Proxy/*
 proxy.php
