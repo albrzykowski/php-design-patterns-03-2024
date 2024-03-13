@@ -3,8 +3,8 @@ doc
 *.attrs
 *.tmp
 
-lib/Pattern/Adapter/*
-adapter.php
+# lib/Pattern/Adapter/*
+# adapter.php
 lib/Pattern/Adapter/*.solution.php
 
 
