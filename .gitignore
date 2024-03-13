@@ -5,7 +5,7 @@ doc
 
 # lib/Pattern/Adapter/*
 # adapter.php
-lib/Pattern/Adapter/*.solution.php
+#  lib/Pattern/Adapter/*.solution.php
 
 
 lib/Pattern/Bridge/*
