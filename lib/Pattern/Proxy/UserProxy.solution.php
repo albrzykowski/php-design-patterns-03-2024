@@ -45,7 +45,11 @@ class UserProxy implements UserInterface
      */
     public function setName($name)
     {
-        // @todo implement
+        if ($this->user !== null) {
+            $this->user->name = $name;
+        } else {
+            $this->session->name = $name;
+        }
     }
     /**
      * Updates user
@@ -53,7 +57,11 @@ class UserProxy implements UserInterface
      */
     public function update()
     {
-        // @todo implement (User object should be created here if it doesnt exist yet)
+        if ($this->user == null) {
+            $this->user = new User();
+        }
+        
+        return $this->user->update();
     }
     
 }

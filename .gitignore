@@ -87,7 +87,7 @@ lib/Pattern/ObserverLight/*.solution.php
 
 # lib/Pattern/Proxy/*
 # proxy.php
-lib/Pattern/Proxy/*.solution.php
+# lib/Pattern/Proxy/*.solution.php
 
 
 
