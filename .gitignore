@@ -15,7 +15,7 @@ lib/Pattern/Bridge/*.solution.php
 
 # lib/Pattern/Builder/*
 # builder.php
-lib/Pattern/Builder/*.solution.php
+# lib/Pattern/Builder/*.solution.php
 
 
 lib/Pattern/ChainOfResponsibility/*
@@ -53,8 +53,8 @@ lib/Pattern/Facade/*.solution.php
 # lib/Pattern/Factory/*.solution.php
 
 
-lib/Pattern/FluentInterface/*
-fluentInterface.php
+# lib/Pattern/FluentInterface/*
+# fluentInterface.php
 lib/Pattern/FluentInterface/*.solution.php
 
 
