@@ -55,12 +55,12 @@ lib/Pattern/Facade/*.solution.php
 
 # lib/Pattern/FluentInterface/*
 # fluentInterface.php
-lib/Pattern/FluentInterface/*.solution.php
+# lib/Pattern/FluentInterface/*.solution.php
 
 
-lib/Pattern/Iterator/*
-iterator.php
-lib/Pattern/Iterator/*.solution.php
+# lib/Pattern/Iterator/*
+# iterator.php
+# lib/Pattern/Iterator/*.solution.php
 
 
 lib/Pattern/InterceptingFilter/*
@@ -93,7 +93,7 @@ lib/Pattern/ObserverLight/*.solution.php
 
 # lib/Pattern/Singleton/*
 # singleton.php
-lib/Pattern/Singleton/*.solution.php
+# lib/Pattern/Singleton/*.solution.php
 
 
 lib/Pattern/State/*
@@ -103,7 +103,7 @@ lib/Pattern/State/*.solution.php
 
 # lib/Pattern/Strategy/*
 # strategy.php
-lib/Pattern/Strategy/*.solution.php
+# lib/Pattern/Strategy/*.solution.php
 
 
 lib/Pattern/TemplateMethod/*
@@ -112,4 +112,4 @@ lib/Pattern/TemplateMethod/*solution.php
 
 # lib/Pattern/Visitor/*
 # visitor.php
-lib/Pattern/Visitor/*.solution.php
+# lib/Pattern/Visitor/*.solution.php
