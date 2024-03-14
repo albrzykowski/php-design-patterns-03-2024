@@ -10,7 +10,7 @@ doc
 
 # lib/Pattern/Bridge/*
 # bridge.php
-lib/Pattern/Bridge/*.solution.php
+# lib/Pattern/Bridge/*.solution.php
 
 
 # lib/Pattern/Builder/*
