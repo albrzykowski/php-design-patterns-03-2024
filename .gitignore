@@ -101,8 +101,8 @@ state.php
 lib/Pattern/State/*.solution.php
 
 
-lib/Pattern/Strategy/*
-strategy.php
+# lib/Pattern/Strategy/*
+# strategy.php
 lib/Pattern/Strategy/*.solution.php
 
 
