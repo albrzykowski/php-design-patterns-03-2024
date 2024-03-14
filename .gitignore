@@ -8,8 +8,8 @@ doc
 #  lib/Pattern/Adapter/*.solution.php
 
 
-lib/Pattern/Bridge/*
-bridge.php
+# lib/Pattern/Bridge/*
+# bridge.php
 lib/Pattern/Bridge/*.solution.php
 
 
