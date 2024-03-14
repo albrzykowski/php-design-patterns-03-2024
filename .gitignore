@@ -20,7 +20,7 @@ doc
 
 # lib/Pattern/ChainOfResponsibility/*
 # chainOfResponsibility.php
-lib/Pattern/ChainOfResponsibility/*.solution.php
+# lib/Pattern/ChainOfResponsibility/*.solution.php
 
 
 # lib/Pattern/Command/*
