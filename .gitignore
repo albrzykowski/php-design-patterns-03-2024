@@ -18,8 +18,8 @@ doc
 # lib/Pattern/Builder/*.solution.php
 
 
-lib/Pattern/ChainOfResponsibility/*
-chainOfResponsibility.php
+# lib/Pattern/ChainOfResponsibility/*
+# chainOfResponsibility.php
 lib/Pattern/ChainOfResponsibility/*.solution.php
 
 
