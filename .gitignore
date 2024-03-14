@@ -28,9 +28,9 @@ doc
 # lib/Pattern/Command/*.solution.php
 
 
-lib/Pattern/Composite/*
-composite.php
-lib/Pattern/Composite/*.solution.php
+# lib/Pattern/Composite/*
+# composite.php
+# lib/Pattern/Composite/*.solution.php
 
 
 # lib/Pattern/Decorator/*
