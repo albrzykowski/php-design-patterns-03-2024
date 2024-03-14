@@ -23,8 +23,8 @@ chainOfResponsibility.php
 lib/Pattern/ChainOfResponsibility/*.solution.php
 
 
-lib/Pattern/Command/*
-command.php
+# lib/Pattern/Command/*
+# command.php
 lib/Pattern/Command/*.solution.php
 
 
