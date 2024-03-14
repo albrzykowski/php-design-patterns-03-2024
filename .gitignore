@@ -110,6 +110,6 @@ lib/Pattern/TemplateMethod/*
 templateMethod.php
 lib/Pattern/TemplateMethod/*solution.php
 
-lib/Pattern/Visitor/*
-visitor.php
+# lib/Pattern/Visitor/*
+# visitor.php
 lib/Pattern/Visitor/*.solution.php
