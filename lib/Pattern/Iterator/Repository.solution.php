@@ -13,15 +13,7 @@ class Repository implements \ArrayAccess
      * @return array
      */
     private $entities = [];
-    /**
-     * Adds entity
-     * @param Entity $entity instance of entity
-     * @return void
-     */
-    public function addEntity($entity)
-    {
-        $this->entities[] = $entity;
-    }
+    
     /**
      * {@inheritdoc}
      */

@@ -6,6 +6,7 @@ spl_autoload_register('autoload');
 $originator = new \Pattern\Memento\Originator();
 $caretaker = new \Pattern\Memento\Caretaker();
 $originator->setState(new \Pattern\Memento\State("First state"));
+// setMemento -> addMemento
 $caretaker->setMemento($originator->getMemento());
 echo '1: ' . $originator->getState() . "\r\n";
 
