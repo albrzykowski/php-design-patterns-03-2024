@@ -66,8 +66,8 @@ lib/Pattern/Facade/*.solution.php
 lib/Pattern/InterceptingFilter/*
 
 
-lib/Pattern/Memento/*
-memento.php
+# lib/Pattern/Memento/*
+# memento.php
 lib/Pattern/Memento/*.solution.php
 
 
