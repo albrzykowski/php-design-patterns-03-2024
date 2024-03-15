@@ -71,8 +71,8 @@ lib/Pattern/InterceptingFilter/*
 # lib/Pattern/Memento/*.solution.php
 
 
-lib/Pattern/Observer/*
-observer.php
+# lib/Pattern/Observer/*
+# observer.php
 lib/Pattern/Observer/*.solution.php
 
 
