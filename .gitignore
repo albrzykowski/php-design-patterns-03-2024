@@ -78,7 +78,7 @@ lib/Pattern/Observer/*.solution.php
 
 # lib/Pattern/ObserverLight/*
 # observerLight.php
-lib/Pattern/ObserverLight/*.solution.php
+# lib/Pattern/ObserverLight/*.solution.php
 
 
 # lib/Pattern/Prototype/*
