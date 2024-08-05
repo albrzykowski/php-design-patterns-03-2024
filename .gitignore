@@ -3,44 +3,44 @@ doc
 *.attrs
 *.tmp
 
-# lib/Pattern/Adapter/*
-# adapter.php
-#  lib/Pattern/Adapter/*.solution.php
+lib/Pattern/Adapter/*
+adapter.php
+# lib/Pattern/Adapter/*.solution.php
 
 
-# lib/Pattern/Bridge/*
-# bridge.php
+lib/Pattern/Bridge/*
+bridge.php
 # lib/Pattern/Bridge/*.solution.php
 
 
-# lib/Pattern/Builder/*
-# builder.php
+lib/Pattern/Builder/*
+builder.php
 # lib/Pattern/Builder/*.solution.php
 
 
-# lib/Pattern/ChainOfResponsibility/*
-# chainOfResponsibility.php
+lib/Pattern/ChainOfResponsibility/*
+chainOfResponsibility.php
 # lib/Pattern/ChainOfResponsibility/*.solution.php
 
 
-# lib/Pattern/Command/*
-# command.php
+lib/Pattern/Command/*
+command.php
 # lib/Pattern/Command/*.solution.php
 
 
-# lib/Pattern/Composite/*
-# composite.php
+lib/Pattern/Composite/*
+composite.php
 # lib/Pattern/Composite/*.solution.php
 
 
-# lib/Pattern/Decorator/*
-# decorator.php
-lib/Pattern/Decorator/*.solution.php
+lib/Pattern/Decorator/*
+decorator.php
+# lib/Pattern/Decorator/*.solution.php
 
 
 lib/Pattern/Delegate/*
 delegate.php
-lib/Pattern/Delegate/*.solution.php
+# lib/Pattern/Delegate/*.solution.php
 
 
 lib/Pattern/Facade/*
@@ -48,68 +48,67 @@ facade.php
 lib/Pattern/Facade/*.solution.php
 
 
-# lib/Pattern/Factory/*
-# factory.php
+lib/Pattern/Factory/*
+factory.php
 # lib/Pattern/Factory/*.solution.php
 
 
-# lib/Pattern/FluentInterface/*
-# fluentInterface.php
+lib/Pattern/FluentInterface/*
+fluentInterface.php
 # lib/Pattern/FluentInterface/*.solution.php
 
 
-# lib/Pattern/Iterator/*
-# iterator.php
+lib/Pattern/Iterator/*
+iterator.php
 # lib/Pattern/Iterator/*.solution.php
 
 
-lib/Pattern/InterceptingFilter/*
+# lib/Pattern/InterceptingFilter/*
 
 
-# lib/Pattern/Memento/*
-# memento.php
+lib/Pattern/Memento/*
+memento.php
 # lib/Pattern/Memento/*.solution.php
 
 
-# lib/Pattern/Observer/*
-# observer.php
-lib/Pattern/Observer/*.solution.php
+lib/Pattern/Observer/*
+observer.php
+# lib/Pattern/Observer/*.solution.php
 
 
-# lib/Pattern/ObserverLight/*
-# observerLight.php
+lib/Pattern/ObserverLight/*
+observerLight.php
 # lib/Pattern/ObserverLight/*.solution.php
 
 
-# lib/Pattern/Prototype/*
-# prototype.php
+lib/Pattern/Prototype/*
+prototype.php
 # lib/Pattern/Prototype/*.solution.php
 
-# lib/Pattern/Proxy/*
-# proxy.php
+lib/Pattern/Proxy/*
+proxy.php
 # lib/Pattern/Proxy/*.solution.php
 
 
-
-# lib/Pattern/Singleton/*
-# singleton.php
+lib/Pattern/Singleton/*
+singleton.php
 # lib/Pattern/Singleton/*.solution.php
 
 
 lib/Pattern/State/*
 state.php
-lib/Pattern/State/*.solution.php
+# lib/Pattern/State/*.solution.php
 
 
-# lib/Pattern/Strategy/*
-# strategy.php
+lib/Pattern/Strategy/*
+strategy.php
 # lib/Pattern/Strategy/*.solution.php
 
 
 lib/Pattern/TemplateMethod/*
 templateMethod.php
-lib/Pattern/TemplateMethod/*solution.php
+# lib/Pattern/TemplateMethod/*solution.php
 
-# lib/Pattern/Visitor/*
-# visitor.php
+lib/Pattern/Visitor/*
+visitor.php
 # lib/Pattern/Visitor/*.solution.php
